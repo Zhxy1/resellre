@@ -1,0 +1,6 @@
+{
+  "name": "Reseller Supply",
+  "description": "#1 trusted vendor in America right now. Direct bulk & wholesale reseller supply for premium tech, apparel, audio, and accessories with verified stock and fast shipping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
